@@ -8,7 +8,7 @@ import numpy as np
 
 
 """
-# Cleaning  
+# Cleaning   
 The process removes hyperlinks, messages with a single word, emojis and some facebook automated messages.
 """
 
